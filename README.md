@@ -106,10 +106,9 @@ jupyter notebook traffic_sign_detection.ipynb
 python scripts/make_charts.py      # redraws docs/*.png from docs/results.json
 ```
 
-## Team
+## Author
 
-Image Processing course project.
-Mahynour Ayman · **Jana Emad** · Mariam Ali
+**Jana Emad**
 
 ## License
 
