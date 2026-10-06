@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# datasets (download separately, see README)
+TrainIJCNN2013/
+Final_Training/
+Final_Test/
+GT-final_test.csv
